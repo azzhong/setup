@@ -10,6 +10,6 @@ alias gb='git branch'
 alias gd='git diff'
 alias gca='git commit -a'
 alias gcaa='git commit -a --amend'
-alias rb='git pull origin master --rebase'
+alias rb='git pull origin main --rebase'
 alias cl='git push origin'
 
